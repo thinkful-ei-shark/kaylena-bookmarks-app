@@ -1,0 +1,80 @@
+body {
+    margin: auto;
+    background-color: whitesmoke;
+  }
+
+  div#main.container {
+   color:black;
+   text-align: center;
+  }
+
+  h2 {
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  label {
+    text-align: center;
+  }
+  
+  fieldset {
+    width: 50%;
+    margin: 0 auto 0 auto;
+  }
+  
+  fieldset.bookmark-list {
+    width: 25%;
+    margin: 0 auto 0 auto;
+  }
+  
+  form {
+    width: 50%;
+    margin: 0 auto 0 auto;
+  }
+  
+  label {
+    align-items: center;
+    color:black;
+  }
+  
+
+  header {
+    background-color:whitesmoke;
+    margin: 0 1px;
+    border: turquoise;
+  }
+  
+  h1 {
+    background-color:whitesmoke;
+    margin: 0 1px;
+    text-align:center;
+    color:white; 
+    font-size: 22px;     
+  }
+
+  a:link {
+    color:whitesmoke;
+    text-decoration: none;
+    align-items: center;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  fieldset {
+    background-color: #B785A9;
+    max-width:500px;
+    padding:16px;	
+  }
+  
+  .delete {
+    align-items: center;
+  }
+  
+  .container {
+    display: relative;
+    align-items: center;
+  }
+
