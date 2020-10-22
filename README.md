@@ -1,4 +1,4 @@
-https://thinkful-ei-shark.github.io/kaylena-bookmarks-app/
+https://thinkful-ei-shark.github.io/kaylena-bookmarks-app/src
 
 User stories:
 1. User can add bookmarks to a bookmark list. Bookmarks contain:
