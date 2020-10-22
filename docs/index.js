@@ -1,5 +1,5 @@
 import $, { data } from 'jquery';
-import css from './style.css';
+import './style.css';
 import api from './api';
 import store from './store';
 import bookmark from './bookmark';
