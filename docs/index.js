@@ -1,4 +1,4 @@
-import $, { data } from 'jquery';
+import $, { data } from '../node_modules/jquery';
 import './style.css';
 import api from './api';
 import store from './store';

@@ -1,10 +1,10 @@
 {
-  "name": "bookmarksThinkful",
+  "name": "bookmarks-thinkful",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server", 
+    "start": "webpack-dev-server",
     "build": "webpack --mode production"
   },
   "keywords": [],

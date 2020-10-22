@@ -1,5 +1,4 @@
-/* eslint-disable indent */
-import $ from 'jquery';
+import $ from '../node_modules/jquery';
 import store from './store';
 import api from './api';
 
