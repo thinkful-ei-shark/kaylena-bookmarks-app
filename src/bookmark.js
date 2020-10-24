@@ -1,4 +1,4 @@
-import $ from '../node_modules/jquery';
+import $ from 'jquery';
 import store from './store';
 import api from './api';
 
@@ -48,7 +48,7 @@ const addBtn = function () {
     let title = $('#bookmark-input').val();
     let url = $('#address-input').val();
     let desc = $('#description-input').val();
-    let rating = $('input[name = \'rate\']:checked').val();
+    let rating = $("input[name = 'rate']:checked").val();
     $('#bookmark-input').val('');
     $('#address-input').val('');
     const bookmark = { title: title, url: url, desc: desc, rating: rating };
